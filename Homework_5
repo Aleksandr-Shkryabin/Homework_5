@@ -1,0 +1,15 @@
+#Работа со списками:
+my_list= ['apple', 'banana', 'cherry', 'plum', 'pear']
+print(my_list)
+print(my_list[0])
+print(my_list[-1])
+print(my_list [2:5])
+my_list[2]='kiwi'
+print(my_list)
+#Работа со словарями:
+my_dict={'apple': 'яблоко', 'banana': 'банан', 'orange': 'апельсин'}
+print(my_dict)
+print(my_dict['apple'])
+my_dict ['orange'] ='апельсинка'
+my_dict ['cherry'] = 'вишня'
+print(my_dict)
